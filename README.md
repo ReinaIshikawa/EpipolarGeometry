@@ -27,3 +27,4 @@ This project uses Opencv 3.4
   - コンソールに対応点の座標が表示される　確認用
 4. 対応点を取り終わると， 射影変換行列などがコンソールに表示される　確認用
   - クリック点が入った画像や，射影変換された画像，　combineされた画像等が出力される
+!(https://github.com/ReinaIshikawa/EpipolarGeometry/blob/master/Epipolar/Output/combined.jpg?raw=true "combined image")
